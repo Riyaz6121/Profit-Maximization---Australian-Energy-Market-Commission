@@ -1,4 +1,4 @@
-# Profit-Maximization---AEMC
+# Battery Optimization Algorithm-Profit-Maximization---AEMC
 
 #Refer to the Gurobi-Real file for the linear optimzation engine
 
