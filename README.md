@@ -1,4 +1,4 @@
-# Profit-Maximization---Australian-Energy-Market-Commission
+# Profit-Maximization---AEMC
 
 #Refer to the Gurobi-Real file for the linear optimzation engine
 
