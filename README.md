@@ -5,3 +5,5 @@
 #Refer to the pdf "AEMC-report" for detailed description of our finding
 
 #The code is not organized!
+
+#Check out the presentation for a short summary of the project
